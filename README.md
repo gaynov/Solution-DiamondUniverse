@@ -1,1 +1,1 @@
-#Solution-DiamondUniverse
+# Solution-DiamondUniverse
